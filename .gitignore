@@ -1,0 +1,6 @@
+# Cuando sincronicemos nuestro repositorio, vamos a ignorar las copias 
+*.bak
+
+# Y también los archivos con código objeto
+*.class
+

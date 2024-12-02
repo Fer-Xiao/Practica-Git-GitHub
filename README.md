@@ -16,7 +16,7 @@ javac AreaCuadrado.java
 java AreaCuadrado
 ```
 
-Página oficial de [JAVA] (https://www.java.com/es/)  :wink:
+Página oficial de [JAVA] (https://www.java.com/es/)  :wink:  :robot:
 
 ## Alumno propietario del Repositorio
-Fernando Xiao Martínez Debesa
+Fernando Xiao Martínez Debesa  [ALUMNO]
