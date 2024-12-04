@@ -4,3 +4,6 @@
 # Y también los archivos con código objeto
 *.class
 
+# Para que no sincronice Nuevo.txt y Otro.txt
+Nuevo.txt
+Otro.txt
