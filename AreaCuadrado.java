@@ -13,5 +13,5 @@ public class AreaCuadrado {
 		
 		System.out.printf("El área del cuadrado es %.2f\n", areaCuadrado);
 	}
-
+//Éste será el comentario que servirá para modificar y/o actualizar el programa JAVA//
 }
